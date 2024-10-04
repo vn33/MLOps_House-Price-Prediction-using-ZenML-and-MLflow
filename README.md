@@ -2,7 +2,7 @@
 This project demonstrates an end-to-end machine learning pipeline for house price prediction using ZenML and MLflow. It incorporates MLOps principles to automate and track various steps of the pipeline, including data ingestion, preprocessing, model building, and deployment.
 
 ## Pipeline overview img from zenML dashboard
-
+<img src="https://github.com/vn33/MLOps_House-Price-Prediction-using-ZenML-and-MLflow/blob/master/pipeline_img.png">
 
 ## Table of Contents
 - [Introduction](#introduction)
